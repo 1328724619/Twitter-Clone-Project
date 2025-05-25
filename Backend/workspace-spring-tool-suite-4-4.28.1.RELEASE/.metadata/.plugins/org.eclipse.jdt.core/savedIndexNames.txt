@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+E:\SocialMediaWeb\Backend\workspace-spring-tool-suite-4-4.28.1.RELEASE\.metadata\.plugins\org.eclipse.jdt.core
+940402274.index
