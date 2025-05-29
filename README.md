@@ -100,15 +100,3 @@
     # yarn start
     ```
     The frontend should open in your browser, usually at `http://localhost:3000`.
-
-## Contributing
-
-(Section for contributions if applicable)
-
-## License
-
-(Section for license information if applicable)
-
-## Contact
-
-(Section for contact information if applicable)
