@@ -1,9 +1,5 @@
 # Twitter Clone Project
 
-## Description
-
-A brief description of the project, its goals, and key features.
-
 ## Features
 
 - User authentication (Sign Up, Login)
